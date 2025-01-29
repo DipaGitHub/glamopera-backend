@@ -1,7 +1,7 @@
 # GlamOpera - Backend
 GlamOpera - Backend is the server-side application built with Node.js and MongoDB, providing the core functionality and API support for the GlamOpera beauty e-commerce website. This backend handles all user and product data management, including user authentication, product listings, order processing, and more.
 
-#Features:
+# Features:
 User Management: Secure signup, login, and authentication (JWT) for users to create accounts, view order histories, and manage their profiles.
 
 Product Management: CRUD operations for managing beauty, skincare, and makeup products. Includes product details, pricing, stock quantities, and more.
